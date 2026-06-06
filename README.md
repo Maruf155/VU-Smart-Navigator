@@ -90,8 +90,11 @@ Distance: 75 m
 
 This project was developed as part of an academic study to demonstrate the practical implementation of graph theory and shortest path algorithms in real-world navigation systems.
 
-## Author
+## Developed By
 
-**Maruf Ul Haque**  
+- Maruf Ul Haque
+- Abdullah Sakib
+- Masuka Munjury Esha
+
 Department of Computer Science and Engineering  
 Varendra University
