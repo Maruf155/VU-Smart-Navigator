@@ -53,32 +53,6 @@ The project uses the Dijkstra Shortest Path Algorithm.
 5. Repeat until the destination is reached.
 6. Reconstruct the shortest route using parent nodes.
 
-## Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/smart-route-finding.git
-```
-
-### Move to the project folder
-
-```bash
-cd smart-route-finding
-```
-
-### Install required package
-
-```bash
-pip install pillow
-```
-
-### Run the project
-
-```bash
-python lab4.py
-```
-
 ## Project Structure
 
 ```text
@@ -111,13 +85,6 @@ Distance: 75 m
 - Voice navigation support
 - Database integration for dynamic locations
 
-## Screenshot
-
-Add a screenshot of the application here.
-
-```markdown
-![Smart Route System](screenshots/gui.png)
-```
 
 ## Educational Purpose
 
